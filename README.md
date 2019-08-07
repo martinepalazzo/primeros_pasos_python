@@ -4,6 +4,7 @@ Este repositorio fue creado con el fin de ser utilizado en cursos en español do
 - Genomica
 - Social Dynamics
 - Estudiantes universitarios 
+\\
 y no existiese suficiente tiempo de cursada para dedicarlo a los conceptos basicos, entonces pueden entregar este tutorial a los alumnes de manera tal que puedan introducirse de manera autonoma en este hermoso mundo y asi ahorrar tiempo de cursada.
 El repositorio contiene:
 - Un instructivo de como descargar Anaconda para utilizar Jupyter notebooks.
