@@ -5,12 +5,12 @@ Este repositorio fue creado con el fin de ser utilizado en cursos en español do
 - Social Dynamics
 - Estudiantes universitarios 
 
-y no existiese suficiente tiempo de cursada para dedicarlo a los conceptos basicos, entonces pueden entregar este tutorial a los alumnes de manera tal que puedan introducirse de manera autonoma en este hermoso mundo y asi ahorrar tiempo de cursada.
+y no existiese suficiente tiempo de cursada para dedicarlo a los conceptos basicos, entonces pueden entregar este tutorial a los alumnxs de manera tal que puedan introducirse de manera autonoma en este hermoso mundo y asi ahorrar tiempo de cursada.
 
 El repositorio contiene:
-- Un instructivo de como descargar Anaconda para utilizar Jupyter notebooks.
-- Un notebook para ser ejecutado por el alumne.
-- Finalizado el tutorial el alumne tendra un primer acercamiento en Numpy, Pandas y visualizacion con matplotlib y Seaborn.
+- Un instructivo de como descargar Anaconda e instalar Jupyter notebooks como entorno para ejecutar scripts de python (instalar_python_jupyter.pdf)
+- Un notebook para ser ejecutado por el alumne (python_primeros_pasos.ipynb)
+- Finalizado el tutorial el alumnx tendra un primer acercamiento en Numpy, Pandas y visualizacion con matplotlib y Seaborn.
 
 Enjoy!
 
