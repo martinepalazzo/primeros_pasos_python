@@ -9,8 +9,8 @@ y no existiese suficiente tiempo de cursada para dedicarlo a los conceptos basic
 
 El repositorio contiene:
 - Un instructivo de como descargar Anaconda e instalar Jupyter notebooks como entorno para ejecutar scripts de python (instalar_python_jupyter.pdf)
-- Un notebook para ser ejecutado por el alumne (python_primeros_pasos.ipynb)
+- Un notebook para ser ejecutado por el alumnx (python_primeros_pasos.ipynb)
 - Finalizado el tutorial el alumnx tendra un primer acercamiento en Numpy, Pandas y visualizacion con matplotlib y Seaborn.
-
+- Pueden seguir este tutorial desde los videos explicativos que armamos con ClusterAI en https://www.youtube.com/channel/UC3AG3wNJDoMbWpwEGtNO0wQ.
 Enjoy!
 
