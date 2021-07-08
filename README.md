@@ -14,3 +14,6 @@ El repositorio contiene:
 - Pueden seguir este tutorial desde los videos explicativos que armamos con ClusterAI en https://www.youtube.com/channel/UC3AG3wNJDoMbWpwEGtNO0wQ.
 Enjoy!
 
+
+El material esta sujeto a licencia GLP, en caso de utilizarlo en practicas educativas o de investigacion por favor citarlo.
+
